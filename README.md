@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakindu-banneheka
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web developing , javascript
 - 🌱 I’m currently learning C++ and full stack devoloping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lakindubannaheka@gmail.com
